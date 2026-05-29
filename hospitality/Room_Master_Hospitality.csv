@@ -1,0 +1,5 @@
+RoomID,RoomType,FloorNumber,BedType,BaseRate,RoomStatus,MaxOccupancy,Amenities,LastCleanedDate
+101,Deluxe,1,Queen,3500,Occupied,2,"WiFi, AC, TV",5/5/2024
+102,Suite,1,King,5000,Occupied,4,"WiFi, AC, TV, MiniBar",5/7/2024
+201,Standard,2,Double,2500,Occupied,2,"WiFi, TV",5/5/2024
+202,Standard,2,Double,2500,Available,2,"WiFi, TV",4/14/2026
