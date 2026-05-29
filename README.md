@@ -1,7 +1,7 @@
 # HCL_MAIN_HACKATHON
-# 🏨 Hospitality Management Analytics Dashboard
+#  Hospitality Management Analytics Dashboard
 
-## 📌 Project Title
+##  Project Title
 
 **Hotel Occupancy & Revenue Management System using SQL, Informatica ETL, and Power BI**
 
@@ -29,8 +29,6 @@ Hotels need visibility into:
 
 This solution helps management optimize hotel performance and operational efficiency.
 
----
-
 ##  Data Sources
 
 The system processes data from **three hospitality datasets (CSV files)**.
@@ -52,7 +50,6 @@ Maintains customer information for guest tracking and customer analytics.
 * Government ID Details
 * Registration Date
 
----
 
 ### 2. Check-In / Check-Out Dataset
 
@@ -76,7 +73,6 @@ Tracks hotel stays, occupancy, booking source, payments, and revenue.
 * Total Revenue
 * Stay Status
 
----
 
 ### 3. Room Master Dataset
 
@@ -96,19 +92,11 @@ Maintains room information and room availability.
 * Room Status
 * Amenities
 
----
 
 ## Solution Architecture
 
-Raw CSV Files
-↓
-Informatica ETL Pipeline
-↓
-SQL Database (Data Warehouse Layer)
-↓
-Power BI Dashboard & Analytics
+Raw CSV Files -> Informatica ETL Pipeline -> SQL Database (Data Warehouse Layer) -> Power BI Dashboard & Analytics
 
----
 
 ## ETL Implementation (Informatica)
 
@@ -160,7 +148,6 @@ Handled:
 * Invalid records
 * Null values
 
----
 
 ## Database Design
 
@@ -245,7 +232,7 @@ To provide hotel management with a centralized business intelligence view of hot
 * Daily Revenue Trends
 * Guest Revenue Analysis
 
----
+
 
 ## Dashboard Visualizations
 
@@ -337,8 +324,6 @@ KPIs:
 **Visualization:** Power BI
 **Programming Concepts:** SQL Window Functions, Triggers, Procedures
 **Data Source:** CSV Files
-
----
 
 ##  Business Outcome
 
