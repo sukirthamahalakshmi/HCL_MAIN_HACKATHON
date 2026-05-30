@@ -1,5 +1,5 @@
 # HCL_MAIN_HACKATHON
-#  Hospitality Management Analytics Dashboard
+#  Hospitality Management 
 
 ##  Project Title
 
